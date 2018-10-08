@@ -1,0 +1,24 @@
+    .titleclass{
+    font-size:30px;
+    font-family: courier;
+    text-align:center;
+    color:#1fa6a;
+    }
+    .formoutline{
+      border: 2px solid black;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 200px;
+      margin-left: 200px;
+      color: #100a0a ;
+      background-color:  #c8c0bf ;
+    }
+    .allelements{
+    padding-right: 20px;
+    font-family: times;
+    font-size: 20px;
+    font-style: oblique;
+    }
+    form,div{
+      background-image: url("/home/andiswamyr/Downloads/bg2.jpg");
+    }
